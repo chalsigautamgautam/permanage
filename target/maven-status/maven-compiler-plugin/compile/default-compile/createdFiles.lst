@@ -1,0 +1,4 @@
+com\customer\PersoManagement\Manager\Manager.class
+com\customer\PersoManagement\Manager\CustomerNotFoundException.class
+com\customer\PersoManagement\Manager\Customer.class
+com\customer\PersoManagement\App.class
